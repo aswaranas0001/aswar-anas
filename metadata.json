@@ -1,0 +1,8 @@
+{
+  "name": "Remix AIR RADAR AI - Indonesia Live Aircraft Tracking",
+  "description": "Interactive real-time flight tracking system for Indonesian airspace with live ADS-B radar, flight telemetry, routes, and airport analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
